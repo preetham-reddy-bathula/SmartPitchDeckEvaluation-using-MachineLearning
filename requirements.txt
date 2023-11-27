@@ -1,0 +1,10 @@
+pandas
+thefuzz
+python-pptx
+PyMuPDF
+Pillow
+python-docx
+nltk
+scikit-learn
+tensorflow
+joblib
