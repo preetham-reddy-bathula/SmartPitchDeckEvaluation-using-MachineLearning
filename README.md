@@ -3,7 +3,7 @@
 **"Empowering startups with AI-driven insights for pitch deck optimization."**
 
 ## About the Project
-Our project provides an AI tool for evaluating startup pitch decks, focusing on the key factors that contribute to investment and market success.
+Our project provides an AI model for evaluating startup pitch decks, focusing on the key factors that contribute to investment and market success.
 
 ## Evaluation Criteria
 Our AI model assesses pitch decks based on comprehensive criteria, each carrying a specific weightage contributing to the total score:
@@ -23,7 +23,7 @@ Our AI model assesses pitch decks based on comprehensive criteria, each carrying
 - **Model Training & Optimization**: Leveraged machine learning models like Random Forest and Gradient Boosting, optimized through GridSearchCV, and enhanced with ensemble methods.
 
 ## Text Preprocessing
-Our AI tool employs a robust text preprocessing pipeline to analyze the content of startup pitch decks effectively. Here's an overview of the process:
+Our AI model employs a robust text preprocessing pipeline to analyze the content of startup pitch decks effectively. Here's an overview of the process:
 
 - **Extraction**: We extract textual content from various document formats, including PDFs and PPTs, using specialized libraries.
 - **Cleaning**: The extracted text undergoes a cleaning process to standardize it, ensuring consistency across different sources.
